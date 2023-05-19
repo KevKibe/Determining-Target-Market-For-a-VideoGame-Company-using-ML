@@ -3,7 +3,12 @@ Lets say there is a video game company being set up and they do not know what gl
 # Description
 I obtained sales data for most produced since 1980 have sold more than 100,000 copies. I used machine learning to fit a model that predicts the global sales using the data provided.
 # Dataset
-The dataset used was from kaggle https://www.kaggle.com/datasets/gregorut/videogamesales 
+The dataset used was from kaggle https://www.kaggle.com/datasets/gregorut/videogamesales <br>
+The regions in this data are:
+<li> NA_Sales - north America
+<li> EU_Sales - Europe
+<li> JP_Sales - Japan
+<li> Other_Sales -Rest of the World
 
 ![image](https://github.com/KevKibe/Determining-Target-Market-For-a-VideoGame-Company-using-ML/assets/86055894/56a09c33-d162-4b3f-972e-7538687e2691)
 
