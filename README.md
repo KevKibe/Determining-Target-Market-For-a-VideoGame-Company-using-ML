@@ -1,7 +1,7 @@
 # Problem Statement
-Lets say there is a video game company being set up and they do not know what global region to market their products to.<br>
+Lets say there is a video game company being set up and they do not know what global region to market their products to. Using data from past video game sales this problem can be solved.<br>
 # Description
-I obtained sales data for most produced since 1980 have sold more than 100,000 copies. I used machine learning to fit a model that predicts the global sales using the data provided.
+I obtained sales data for video games produced since 1980 have sold more than 100,000 copies. I used machine learning to fit a model that predicts the global sales using the data provided.
 # Dataset
 The dataset used was from kaggle https://www.kaggle.com/datasets/gregorut/videogamesales <br>
 The regions in this data are:
